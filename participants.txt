@@ -1,6 +1,4 @@
 Finance team
- Charles
- Lisa
- John
- Stacy
- Alexander
+Charles
+Lisa
+John
